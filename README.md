@@ -90,10 +90,10 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Harsha Vardhan Reddy
 
-dcase@nwmissouri.edu
+s534688@nwmissouri.edu
 
 ## New Section 
 
-
+one
