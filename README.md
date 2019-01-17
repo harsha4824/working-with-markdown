@@ -72,7 +72,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 You can also upload an image into your repo. 
 
-![vscode image](https://github.com/harsha4824/image/blob/master/Screenshot%20(2).png "Example local image")
+![vscode image](https://github.com/harsha4824/image/blob/master/Screenshot%20(2).png " Example local image ")
 
 ## Paragraphs
 
