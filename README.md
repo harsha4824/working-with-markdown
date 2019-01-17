@@ -72,7 +72,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 You can also upload an image into your repo. 
 
-![image] (Example.png "image from my repository")
+![image](Example.png "image from my repository")
 
 ## Paragraphs
 
