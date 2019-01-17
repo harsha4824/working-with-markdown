@@ -98,3 +98,4 @@ s534688@nwmissouri.edu
 ## New Section 
 
 one
+![sample image](https://github.com/harsha4824/working-with-markdown2/blob/master/vscode.PNG)
