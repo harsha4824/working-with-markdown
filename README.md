@@ -66,13 +66,13 @@ Generally, store your embedded images in your repo if they are original, or refe
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
-![Example](https://wallpaperbrowse.com/media/images/3848765-wallpaper-images-download.jpg)
+![Example](https://wallpaperbrowse.com/media/images/3848765-wallpaper-images-download.jpg "puupy")
 
 ## Displaying Local Images
 
 You can also upload an image into your repo. 
 
-![image](https://github.com/harsha4824/image/blob/master/Screenshot%20(2).png)
+![image](https://github.com/harsha4824/image/blob/master/Screenshot%20(2).png "image from my repository")
 
 ## Paragraphs
 
@@ -98,4 +98,4 @@ s534688@nwmissouri.edu
 ## New Section 
 
 one
-![sample image](https://github.com/harsha4824/working-with-markdown2/blob/master/vscode.PNG)
+![sample image](https://github.com/harsha4824/working-with-markdown2/blob/master/vscode.PNG "sample image")
